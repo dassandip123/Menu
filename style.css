@@ -26,12 +26,12 @@ p{
     clear: right;
     padding: 10px;
 }
-@media screen and (max-width: 992px){
+@media screen and (max-width: 991px){
     .colomn{
         flex: 45%;
     }
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
     .colomn {
       flex:90%;
     }
